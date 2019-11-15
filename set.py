@@ -1,6 +1,5 @@
 import numpy as np
-from tkinter import *
-from util.color import Color
+
 
 
 
